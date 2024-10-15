@@ -1,2 +1,2 @@
 # rm2SNMP
-projekat u javi gde preko snmpa prati podatke sa rutera uwu
+Java based application for tracking SNMP packets in GNS3
